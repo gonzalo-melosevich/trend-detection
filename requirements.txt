@@ -1,4 +1,7 @@
 https://github.com/explosion/spacy-models/releases/download/de_core_news_lg-3.2.0/de_core_news_lg-3.2.0.tar.gz#egg=de_core_news_lg
+spacy==3.2.0
+spacy-legacy==3.0.9
+spacy-loggers==1.0.2
 absl-py==1.0.0
 alabaster==0.7.12
 arrow==1.2.2
@@ -120,9 +123,6 @@ sniffio==1.2.0
 snowballstemmer==2.2.0
 sortedcontainers==2.4.0
 soupsieve==2.3.2.post1
-spacy==3.3.0
-spacy-legacy==3.0.9
-spacy-loggers==1.0.2
 Sphinx==4.5.0
 sphinx-rtd-theme==1.0.0
 sphinxcontrib-applehelp==1.0.2
